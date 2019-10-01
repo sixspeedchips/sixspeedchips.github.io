@@ -1,5 +1,3 @@
-# swandivejack.github.io
-
 ## Career Objectives
 
 ## Current Projects
