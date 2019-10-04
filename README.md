@@ -15,5 +15,5 @@
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/isaaclindland)
-[Github]()
+* [LinkedIn](https://www.linkedin.com/in/isaaclindland)
+* [Github](https://github.com/swandivejack)
