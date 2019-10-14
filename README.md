@@ -9,7 +9,7 @@
 
 ### Education
 
-* Bachelor of Science, Mathematics, University of New Mexico, 2019
+* Bachelor of Science, Mathematics, University of New Mexico
 	* Minor of Computer Science 
 
 # Ideas for projects
