@@ -33,7 +33,7 @@
 	Implement a blockchain using the bitcoin core as a guide that has a decentralized chatting service with each user doing POW to build a blockchain of comments
 - Revisiting Numerical analysis
 	rewrite the rootfinding, splines, interpolative algorithms, and quadrature from numerical analysis classes.
- 
+- Maze builder animations using DFS 
 
 
 
